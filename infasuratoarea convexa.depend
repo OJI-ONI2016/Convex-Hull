@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1448573661 source:c:\users\cosmin\desktop\probleme info\infasuratoarea convexa\main.cpp
+	<fstream>
+	<iostream>
+	<algorithm>
+	<iomanip>
+
